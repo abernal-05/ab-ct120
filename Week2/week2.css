@@ -1,0 +1,11 @@
+body {
+    background: #BEBEE9;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+main {
+    background: #A5C7E8;
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+}

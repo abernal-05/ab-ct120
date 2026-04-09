@@ -1,0 +1,14 @@
+body {
+    border-color: white;
+    margin-right: 50px;
+    margin-left: 50px;
+    background: #B2D2D7;
+}
+main {
+    background: #84C0C8;
+}
+h2 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
